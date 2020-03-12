@@ -1,0 +1,12 @@
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\bin\Debug\RCCFLib.dll.config
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\bin\Debug\RCCFLib.dll
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\bin\Debug\RCCFLib.pdb
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\obj\Debug\RCCFLib.csprojResolveAssemblyReference.cache
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\obj\Debug\RCCFLib.dll
+C:\Users\DarrenOliveiro-Pries\source\Rocket Control and Communication Framework (RCCF)\Rocket Control and Communication Framework (RCCF)\RCCFLib\RCCFLib\obj\Debug\RCCFLib.pdb
+C:\Src\RCCF\RCCFLib\RCCFLib\bin\Debug\RCCFLib.dll.config
+C:\Src\RCCF\RCCFLib\RCCFLib\bin\Debug\RCCFLib.dll
+C:\Src\RCCF\RCCFLib\RCCFLib\bin\Debug\RCCFLib.pdb
+C:\Src\RCCF\RCCFLib\RCCFLib\obj\Debug\RCCFLib.csprojResolveAssemblyReference.cache
+C:\Src\RCCF\RCCFLib\RCCFLib\obj\Debug\RCCFLib.dll
+C:\Src\RCCF\RCCFLib\RCCFLib\obj\Debug\RCCFLib.pdb
